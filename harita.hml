@@ -1,0 +1,14 @@
+dugum:a
+dugum:b
+dugum:c
+dugum:d,x=1,y=10,z=0.4
+dugum:e
+dugum:f,x=10,z=29.343
+yol:a,b,mesafe=5
+yol:a,c,mesafe=3
+yol:a,e,mesafe=8
+yol:c,e,mesafe=2
+yol:c,d,mesafe=1
+yol:d,f,mesafe=7
+yol:d,e,mesafe=3
+yol:e,f,mesafe=1
